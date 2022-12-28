@@ -1,8 +1,8 @@
-# 강의 내용 정리하기
+# **Today's topic**
 
-## 2022.12.27일 강의
-* markdown 강의
-* git 강의
+## 2022.12.27
+* [markdown](markdown.md)
+* [git](git.md)
 
-## 2022.12.28일 강의
-* github 강의
+## 2022.12.28
+* [github](github.md)
