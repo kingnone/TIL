@@ -7,14 +7,14 @@
 <div markdown="1">
 
 ## 2022.12.27
-* [markdown](1week/markdown.md)
-* [git](1week/git.md)
+ [markdown](1week/markdown.md)
+ [git](1week/git.md)
 
 ## 2022.12.28
-* [github](1week/github.md)
+ [github](1week/github.md)
 
 ## 2022.12.29
-* [fork&full](1week/fork&pull.md)
+ [fork&full](1week/fork&pull.md)
 
 </div>
 </details>
