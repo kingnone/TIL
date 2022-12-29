@@ -1,4 +1,6 @@
-# **Today's topic**
+<div align = "center">
+
+# **:sparkles:Today's topic:sparkles:**
 
 <details>
 <summary>1week</summary>
