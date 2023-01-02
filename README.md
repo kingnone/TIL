@@ -28,6 +28,8 @@
 <summary>2week</summary>
 <div markdown="1">
 
+## 2023.01.02
+ [python_basics](2week/python_basics.md)
 
 </div>
 </details>
