@@ -45,3 +45,4 @@
 - 데이터 전처리, 모델 학습, ML 파이프라인 구축 등을 담당
 - Python, Tensorflow, Pytorch, Kubeflow 등의 역량 필요
 
+2022.12.30
