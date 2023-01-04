@@ -31,8 +31,11 @@
 ## 2023.01.02
  [python_basics](2week/python_basics.md)
 
- ## 2022.12.30
+ ## 2023.01.03
  [python_string](2week/python_string.md)
+
+ ## 2023.01.04
+ [python_string](2week/python_function.md)
 
 </div>
 </details>
