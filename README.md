@@ -35,7 +35,7 @@
  [python_string](2week/python_string.md)
 
  ## 2023.01.04
- [python_string](2week/python_function.md)
+ [python_function](2week/python_function.md)
 
 </div>
 </details>
