@@ -37,6 +37,9 @@
  ## 2023.01.04
  [python_function](2week/python_function.md)
 
+ ## 2023.01.05
+ [dictionary](2week/dictionary_eh.md)
+
 </div>
 </details>
 
