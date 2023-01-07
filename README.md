@@ -40,6 +40,9 @@
  ## 2023.01.05
  [dictionary](2week/dictionary_eh.md)
 
+ ## 2023.01.06
+ [input_output](2week/input_output.md)
+
 </div>
 </details>
 
