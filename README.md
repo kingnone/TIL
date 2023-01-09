@@ -52,6 +52,8 @@
 <summary>3week</summary>
 <div markdown="1">
 
+ ## 2023.01.09
+ [tuple_set](2week/input_output.md)
 
 </div>
 </details>
