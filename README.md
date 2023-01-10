@@ -55,6 +55,9 @@
  ## 2023.01.09
  [tuple_set](3week/tuple_set.md)
 
+ ## 2023.01.10
+ [user_defined_function](3week/user_defined_function.md)
+
 </div>
 </details>
 
