@@ -58,6 +58,9 @@
  ## 2023.01.10
  [user_defined_function](3week/user_defined_function.md)
 
+## 2023.01.11
+ [user_defined_class](3week/user_defined_class.md)
+
 </div>
 </details>
 
