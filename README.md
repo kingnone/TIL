@@ -61,6 +61,10 @@
 ## 2023.01.11
  [user_defined_class](3week/user_defined_class.md)
 
+ ## 2023.01.12
+ [class](3week/class.md)
+
+
 </div>
 </details>
 
