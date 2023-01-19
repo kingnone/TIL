@@ -80,6 +80,9 @@
  ## 2023.01.16~17
  [algorithm](4week/algorithm.md)
 
+ ## 2023.01.16~17
+ [dictionary](4week/dictionary.md)
+
 
 </div>
 </details>
