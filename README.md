@@ -111,7 +111,7 @@
  ## 2023.01.30
  [two_dimensional_list](6week/two_dimensional_list.md)
 
- ## 2023.01.31
+ ## 2023.02.01
  [exhaustive_search](6week/exhaustive_search.md)
 
 </div>
