@@ -96,6 +96,8 @@
  ## 2023.01.26
  [stack&queue](5week/stack_queue.md)
 
+ ## 2023.01.27
+ [heap_set](5week/heap_set.md)
 
 </div>
 </details>
@@ -106,8 +108,8 @@
 <summary>6week</summary>
 <div markdown="1">
 
- ## 2023.01.26
- [stack&queue](5week/stack_queue.md)
+ ## 2023.01.30
+ [two_dimensional_list](6week/two_dimensional_list.md)
 
 
 </div>
