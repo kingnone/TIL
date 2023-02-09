@@ -120,11 +120,12 @@
 <div markdown="1">
 
  ## 2023.02.08
- [stack&queue](5week/stack_queue.md)
-
-  ## 2023.02.09
  [sql](5week/stack_queue.md)
 
+  ## 2023.02.09
+ [sql](7week/sql.md)
+
+ [sql_single_table_queries](7week/sql_single_table_queries.md)
 
 </div>
 </details>
