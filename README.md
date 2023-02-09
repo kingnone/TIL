@@ -114,6 +114,9 @@
  ## 2023.02.01
  [exhaustive_search](6week/exhaustive_search.md)
 
+ ## 2023.02.02
+ [graph](6week/graph.md)
+
 </div>
 </details>
 
