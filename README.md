@@ -130,7 +130,7 @@
  [dfs](7week/dfs.md)
 
  ## 2023.02.08
- [sql](5week/stack_queue.md)
+ [db](7week/db.md)
 
   ## 2023.02.09
  [sql](7week/sql.md)
