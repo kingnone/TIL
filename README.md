@@ -140,3 +140,16 @@
 
 </div>
 </details>
+
+<br/>
+
+<details>
+<summary>8week</summary>
+<div markdown="1">
+
+ ## 2023.02.06
+ [sql_single_table_queries2](8week/sql_single_table_queries2.md)
+
+
+</div>
+</details>
