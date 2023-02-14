@@ -153,5 +153,7 @@
  ## 2023.02.14
  [managing_table](8week/managing_table.md)
 
+ [modifying+data](8week/modifying_data.md)
+
 </div>
 </details>
