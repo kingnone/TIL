@@ -150,6 +150,7 @@
  ## 2023.02.06
  [sql_single_table_queries2](8week/sql_single_table_queries2.md)
 
+ [managing_table](8week/managing_table.md)
 
 </div>
 </details>
