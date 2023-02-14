@@ -147,9 +147,10 @@
 <summary>8week</summary>
 <div markdown="1">
 
- ## 2023.02.06
+ ## 2023.02.13
  [sql_single_table_queries2](8week/sql_single_table_queries2.md)
-
+ 
+ ## 2023.02.14
  [managing_table](8week/managing_table.md)
 
 </div>
