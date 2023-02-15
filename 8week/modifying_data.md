@@ -8,14 +8,14 @@
 ## INSERT syntax
 * INSERT INTO 절 다음에 테이블 이름과 괄호 안에 필드 목록을 작성
 * VALUES 키워드 다음 괄호 안에 해당 필드에 삽입할 값 목록을 작성
-```mysql
+```sql
 INSERT INTO table_name (c1, c2, ...)
 VALUES (v1, v2, ...);
 ```
 
 ### INSERT ex 1
 * articles 테이블에 각 필드에 적합한 데이터 입력
-```mysql
+```sql
 INSERT INTO
   artcles (title, content, createdAt)
 VALUES
@@ -26,7 +26,7 @@ VALUES
 
 ### INSERT ex 2
 * articles 테이블에 각 필드에 적합한 데이터 3개 입력
-```mysql
+```sql
 INSERT INTO
   articles (title, content, createdAt)
 VALUES
@@ -39,7 +39,7 @@ VALUES
 
 ### INSERT ex 3
 * articles 테이블에 각 필드에 적합한 데이터 입력 (단, createAt 필드에는 현재 작성하는 날짜가 자동으로 입력 나머지 필드 자율)
-```mysql
+```sql
 INSERT INTO
   articles (title, content, createdAt)
 VALUES
@@ -60,7 +60,7 @@ VALUES
 
 ### UPDATE ex 1
 * articles 테이블 1번 레코드의 title 필드 값을 'newTitle'로 변경
-```mysql
+```sql
 UPDATE
   articles
 SET
@@ -73,7 +73,7 @@ WHERE
 
 ### UPDATE ex 2
 * articles 테이블 2번 레코드의 title, content 필드 값을 자유롭게 변경
-```mysql
+```sql
 UPDATE
   articles
 SET
@@ -87,7 +87,7 @@ WHERE
 
 ### UPDATE ex 3
 * articles 테이블 모든 레코드의 content 필드 값 중 문자열 'content'를 'TEST'로 변경
-```mysql
+```sql
 UPDATE
   articles
 SET
@@ -105,7 +105,7 @@ SET
 * DELETE FROM 절 다음에 테이블 이름 작성
 * WHERE 절에서 삭제할 레코드를 지정하는 조건 작성
   * WHERE절을 작성하지 않으면 모든 레코드 삭제
-```mysql
+```sql
 DELETE FROM table_name
 [WHERE
   condition];
@@ -113,7 +113,7 @@ DELETE FROM table_name
 
 ### DELETE ex 1
 * articles 테이블의 1번 레코드 삭제
-```mysql
+```sql
 DELETE FROM
   articles
 WHERE
@@ -124,7 +124,7 @@ WHERE
 
 ### DELETE ex 2
 * articles 테이블에서 가장 최근에 작성된 레코드 삭제
-```mysql
+```sql
 DELETE FROM
   articles
 ORDER BY

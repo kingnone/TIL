@@ -10,7 +10,7 @@
 * 테이블 및 필드에 대한 제약조건 작성
 
 ### CREATE TABLE ex
-```mysql
+```sql
 CREATE TABLE examples (
   examID INT AUTO INCREMENT,
   lastName VARCHAR(50) NOT NULL,
@@ -19,7 +19,7 @@ CREATE TABLE examples (
 )
 ```
 
-```mysql
+```sql
 -- Table 구조 확인
 SHOW COLUMNS FROM examples;
 ```
@@ -56,12 +56,12 @@ SHOW COLUMNS FROM examples;
 
 ## DROP TABLE syntax
 * DROP TABLE statement 이후 삭제할 테이블 이름 작성
-```mysql
+```sql
 DROP TABLE table_name;
 ```
 
 ### DROP TABLE ex
-```mysql
+```sql
 DROP TABLE examples;
 ```
 
@@ -80,7 +80,7 @@ DROP TABLE examples;
 
 ### ALTER TABLE ex 1
 * examples 테이블에 country 필드 추가 (단, country 필드는 가변길이 문자열 최대 100자이며 NULL 값을 허용하지 않음)
-```mysql
+```sql
 ALTER TABLE
   examples
 ADD
@@ -92,7 +92,7 @@ ADD
 ### ALTER TABLE ex 2
 * examples 테이블에 age와 address 필드 추가
 (단, age 필드는 정수 타입이 저장되며 NULL값을 허용하지 않음, address 필드는 가변길이 문자열 최대 100자이며 NULL 값을 허용하지 않음)
-```mysql
+```sql
 ALTER TABLE
   examples
 ADD
@@ -105,7 +105,7 @@ ADD
 
 ## ALTER TABLE MODIFY syntax
 * MODIFY 키워드 이후 변경하고자 하는 필드 이름 그리고 데이터 타입 및 제약 조건 작성
-```mysql
+```sql
 ALTER TABLE
   table_name
 MODIFY
@@ -114,7 +114,7 @@ MODIFY
 
 ### ALTER TABLE MODIFY ex 1
 * examples 테이블의 address 필드를 가변길이 문자열 최대 50자까지 그리고 NULL 값을 허용하지 않도록 변경
-```mysql
+```sql
 ALTER TABLE
   examples
 MODIFY
@@ -125,7 +125,7 @@ MODIFY
 
 ### ALTER TABLE MODIFY ex 2
 * examples 테이블의 lastName, firstName 필드를 가변길이 문자열 최대 10자까지 그리고 NULL 값을 허용하지 않도록 변경
-```mysql
+```sql
 ALTER TABLE examples
 MODIFY lastName VARCHAR(10) NOT NULL,
 MODIFY firstName VARCHAR(10) NOT NULL;
@@ -135,7 +135,7 @@ MODIFY firstName VARCHAR(10) NOT NULL;
 
 ## ALTER TABLE CHANGE COLUMN syntax
 * CHANGE COLUMN 키워드 이후 기존 필드 이름, 변경하고자 하는 필드 이름 그리고 데이터 타입 및 제약조건 작성
-```mysql
+```sql
 ALTER TABLE
   table_name
 CHANGE COLUMN
@@ -144,7 +144,7 @@ CHANGE COLUMN
 
 ### ALTER TABLE CHANGE COLUMN ex 1
 * examples 테이블의 country 필드 이름을 state로 변경 (단, 데이터 타입 및 제약 조건은 기존과 동일)
-```mysql
+```sql
 ALTER TABLE
   examples
 CHANGE COLUMN
@@ -155,7 +155,7 @@ CHANGE COLUMN
 
 ## ALTER TABLE DROP COLUMN syntax
 * DROP COLUMN 키워드 이후 삭제하고자 하는 필드 이름 작성
-```mysql
+```sql
 ALTER TABLE
   table_name
 DROP COLUMN
@@ -164,7 +164,7 @@ DROP COLUMN
 
 ### ALTER TABLE DROP COLUMN ex 1
 * examples 테이블의 address 필드 삭제
-```mysql
+```sql
 ALTER TABLE
   examples
 DROP COLUMN
@@ -175,7 +175,7 @@ DROP COLUMN
 
 ### ALTER TABLE DROP COLUMN ex 2
 * examples 테이블의 state와 age 필드 삭제
-```mysql
+```sql
 ALTER TABLE
   examples
 DROP COLUMN
