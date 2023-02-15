@@ -156,7 +156,7 @@
  [modifying+data](8week/modifying_data.md)
 
  ## 2023.02.15
- [multi_table]](8week/multi_table.md)
+ [multi_table](8week/multi_table.md)
 
 </div>
 </details>
