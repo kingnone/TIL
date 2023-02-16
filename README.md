@@ -158,5 +158,8 @@
  ## 2023.02.15
  [multi_table_queries](8week/multi_table_queries.md)
 
+  ## 2023.02.16
+ [nested_queries](8week/nested_queries.md)
+
 </div>
 </details>
