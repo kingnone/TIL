@@ -130,11 +130,12 @@ DELIMITER ;
 * 트리거를 사용해 기존 게시글이 삭제되면, 삭제돈 게시글의 구조 그대로 별도의 테이블에 기록하기
 ```sql
 DELIMITER //
-CREATE TRIGGER beforeArticleUpdate
-	BEFORE UPDATE
-    ON articles FOR EACH ROW
+CREATE TRIGGER backUpLogs
+	AFTER DELETE
+	ON articles FOR EACH ROW
 BEGIN
-	SET NEW.updateAt = CURRENT_TIME();
+	INSERT INTO backupArticles (title, createAt, updateAt)
+    VALUES (OLD.title, OLD.createAt, OLD.updateAt);
 END//
 DELIMITER ;
 ```
