@@ -163,5 +163,8 @@ SELECT * FROM information_schema.INNODB_TRX;
 
 -- 특정 프로세스의 trx_mysql_thread_id 삭제
 KILL [trx_mysql_thread_id1];
+```
+
+<br/>
 
 2023.02.20
