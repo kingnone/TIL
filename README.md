@@ -179,5 +179,8 @@
  ## 2023.02.22
  [web](9week/web.md)
 
+  ## 2023.02.23
+ [web2](9week/web2.md)
+
 </div>
 </details>
