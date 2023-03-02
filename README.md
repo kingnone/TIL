@@ -199,5 +199,8 @@
  
  [flexible](10week/flexible.md)
 
+ ## 2023.03.02
+ [semantic](10week/semantic.md)
+ 
 </div>
 </details>
