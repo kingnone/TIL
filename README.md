@@ -234,6 +234,8 @@
  ## 2023.03.13
  [javascript](12week/javascript.md)
 
+ ## 2023.03.14
+ [javascript2](12week/javascript2.md)
 
 </div>
 </details>
