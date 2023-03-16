@@ -217,7 +217,7 @@
  ## 2023.03.07
  [gridsystem](11week/gridsystem.md)
 
-  ## 2023.03.08
+ ## 2023.03.08
  [grid2](11week/grid2.md)
  
  [ux_ui](11week/ux_ui.md)
@@ -237,10 +237,12 @@
  ## 2023.03.14
  [javascript2](12week/javascript2.md)
 
-  ## 2023.03.15
+ ## 2023.03.15
  [functions](12week/functions.md)
 
-  ## 2023.03.16
+ [object](12week/object.md)
+
+ ## 2023.03.16
  [controlling](12week/controlling.md)
 
 </div>
