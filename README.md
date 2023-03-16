@@ -237,6 +237,9 @@
  ## 2023.03.14
  [javascript2](12week/javascript2.md)
 
+  ## 2023.03.15
+ [functions](12week/functions.md)
+
   ## 2023.03.16
  [controlling](12week/controlling.md)
 
