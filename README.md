@@ -242,6 +242,8 @@
 
  [object](12week/object.md)
 
+ [array](12week/array.md)
+
  ## 2023.03.16
  [controlling](12week/controlling.md)
 
