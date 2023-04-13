@@ -259,5 +259,8 @@
  ## 2023.03.20
  [django](13week/django.md)
 
+ ## 2023.03.21
+ [django2](13week/django2.md)
+
 </div>
 </details>
