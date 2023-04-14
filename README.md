@@ -268,5 +268,8 @@
  ## 2023.03.23
  [url](13week/url.md)
 
+ ## 2023.03.24
+ [model](13week/model.md)
+
 </div>
 </details>
