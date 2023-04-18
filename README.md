@@ -286,5 +286,8 @@
  ## 2023.03.29
  [orm2](14week/orm2.md)
 
+ ## 2023.03.30
+ [orm_view](14week/orm_view.md)
+
 </div>
 </details>
