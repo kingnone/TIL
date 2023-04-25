@@ -310,3 +310,15 @@
  [authentication2](15week/authentication2.md)
 </div>
 </details>
+
+<br/>
+
+<details>
+<summary>16week</summary>
+<div markdown="1">
+
+ ## 2023.04.10
+ [static_files](16week/static_files.md)
+
+</div>
+</details>
