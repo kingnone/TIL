@@ -320,5 +320,8 @@
  ## 2023.04.10
  [static_files](16week/static_files.md)
 
+ ## 2023.04.11
+ [relationships](16week/relationships.md)
+
 </div>
 </details>
